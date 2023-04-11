@@ -20,7 +20,7 @@ It is a sensor that measures the amount of deflection or bending. This helps con
 
 
 Resistors:
-10K ohms resistors are used for this project. As mentioned above, the resistor helps create a voltage barrier. The variable voltage can be read by the analog-to-digital converter of the micro controller.
+10K ohms resistors are used for this project. The resistor helps create a voltage divider. The variable voltage can be read by the analog-to-digital converter of the micro controller.
 
 ![image](https://user-images.githubusercontent.com/83921032/231141737-5f8b81a2-8318-4f83-b52d-1b87e4fa7bd6.png)
 
